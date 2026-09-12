@@ -4,7 +4,7 @@ A modern, responsive e-commerce mobile application built with **Flutter**, featu
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshots(taken on an android device (my old phone though))
 
 <div align="center">
 
