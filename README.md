@@ -8,7 +8,7 @@ A modern, responsive e-commerce mobile application built with **Flutter**, featu
 
 <div align="center">
 
-| :---: | :---: | :---: |
+
 | <img src="SCREENSHOT/app2.png" width="240" />
 | <img src="SCREENSHOT/app3.png" width="240" />
 | <img src="SCREENSHOT/app4.png" width="240" />
