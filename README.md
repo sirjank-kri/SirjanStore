@@ -25,11 +25,3 @@ A modern, responsive e-commerce mobile application built with **Flutter**, featu
 -  Responsive Grid Layout:     Adapts automatically to mobile (2 columns) and desktop/web (4 columns).
 
 ---
-
-## 🏛️ Architecture & Tech Stack
-
-- **Architecture:** Clean Architecture (Domain, Data, and Presentation layers)
-- **State Management:** BLoC Pattern (`flutter_bloc` & `equatable`)
-- **Dependency Injection:** Service Locator with `get_it`
-- **Network / API:** `http` package fetching from DummyJSON REST API
-- **Design System:** Material 3
